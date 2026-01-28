@@ -1,4 +1,4 @@
-Analisis Big Data Kualitas Udara Global (AQI) 🌍
+## Analisis Big Data Kualitas Udara Global (AQI) 🌍
 Repository ini berisi dokumentasi dan source code untuk Ujian Akhir Semester (UAS) Mata Kuliah Big Data & Predictive Analytics Lanjut di Universitas AMIKOM Yogyakarta.
 
 Proyek ini mengimplementasikan pipeline Big Data lengkap menggunakan Apache Spark (PySpark) untuk menganalisis dataset Global Urban Air Quality.
